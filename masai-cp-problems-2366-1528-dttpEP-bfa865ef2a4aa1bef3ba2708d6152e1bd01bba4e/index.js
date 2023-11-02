@@ -1,4 +1,5 @@
 // import functions from helper_functiones.js
+const {getIP}=require("./helper_functiones");
 
 const operation = process.argv[2];
 const file = process.argv[3];
